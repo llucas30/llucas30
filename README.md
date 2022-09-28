@@ -12,7 +12,7 @@
 ### About me
 
 - Trying to always live in the present 👁️
-- Ashtanga Yoga ❤️‍🔥 sadhaka
+- Ashtanga Yoga ❤️‍🔥
 - Passionate about sports ⚽🎾🏀🏄
 - Love animals and nature 🐒
 
