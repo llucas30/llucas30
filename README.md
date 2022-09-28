@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hi there, my name is Lucas 👋
 
-<!--
-**llucas30/llucas30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I’m studying web development at [Rocketseat](https://rocketseat.com.br)
 
-Here are some ideas to get you started:
+💻 I've already learnt: `Html` `Css` `Js` `Git`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤓 I’m currently learning `Node.js`
+
+💭 I dream on help people with mental disorders throughout technology
+
+
+### About me
+
+- Trying to always live in the present 👁️
+- Ashtanga Yoga ❤️‍🔥 sadhaka
+- Passionate about sports ⚽🎾🏀🏄
+- Love animals and nature 🐒
+
